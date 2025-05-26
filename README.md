@@ -1,1 +1,2 @@
-# BanStereoSet
+This is the official repository for ACL 2025 paper titled 'BanStereoSet: A Dataset to Measure Stereotypical Social Biases in LLMs for Bangla'. 
+The final dataset is coming soon.....
